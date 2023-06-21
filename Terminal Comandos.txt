@@ -1,0 +1,58 @@
+Terminal Comandos
+
+Podemos usar la de la computador o la que viene en Vscode.
+
+Recordar que la terminal es sensible a las mayusculas.
+
+
+
+Pwd = nos dice en la ruta/directorio que estamos parados
+
+Ls = Nos dice las lista de los archivos que están en el directorio en el cual estamos parados
+
+Ls -a = Nos muestra todos los archivos o carpetas ocultas (aca podremos ver carpeta git en caso de que se haya incializado)
+
+Mkdir (Nombre deseado de la carpeta si es mas de una palabra debe ser con “ “ para que respete los espacios entre palabras) = Crea una carpeta en el directorio que estoy parado
+
+Mkdir -v (Nombre deseado de la carpeta si es mas de una palabra debe ser con “ “ para que respete los espacios entre palabras) = Crea una carpeta pero a diferencia de la anterior la consola nos avisa que se creo
+
+Cd (change directory) = nos permite cambiar de directorio o carpeta. Si tan solo ponemos cd nos saca del directorio que estemos parados.
+
+Cd .. = nos lleva un directorio para atrás
+
+Clear = limpia la terminal
+
+Touch (nombre archivo.js) = Crea un archivo
+
+Rm (nombre de archivo.js) = Elimina el archivo seleccionado
+
+Rm -r (nombre de carpeta o archivo) = elimina una carpeta o directorio indicado
+
+Help = no entrega lista de comando básicos de la terminal
+
+Ls --help = nos ayuda específicamente con ese comando
+
+
+Git config --global user.email "MAIL" = configurando mail de mi repositorio
+
+Git config --global user.name "Nombre" = configurando nombre de mi repositorio
+
+Git init = Crea el repositorio donde vamos a almacenar archivos
+
+Git status = Muestra todo lo que aun no fue hecho commit y guardado
+
+Commit = es una captura istantanea de los cambios preparados en ese momento del proyecto
+
+Git add (nombre carpeta o "archivo") = agrega la seleccionado para luego poder hacer commit y guardar
+
+Git add . = Agrega todo los archivos al siguiente commit
+
+Git commit -m "nombre del commit que quieras" = Hace el commit de todo lo que seleccionamos para guardar
+
+Git log = muestra los commit que hicimos
+
+
+
+
+
+
