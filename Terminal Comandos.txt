@@ -55,6 +55,10 @@ Git commit -m "nombre del commit que quieras" = Hace el commit de todo lo que se
 
 Git log = muestra los commit que hicimos
 
+Git clone https://github.com/segunmarotta/PreCursoHenry2.git = Clona/descarga repositorio de GitHub
+
+Git push origin main = Envía la rama main a mi repositorio
+
 
 
 
